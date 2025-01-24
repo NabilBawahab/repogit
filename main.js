@@ -1,1 +1,1 @@
-console.log("Hello ini projek");
+console.log("Hello ini projek2");
